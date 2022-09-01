@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Egor Vasyakin!
 
-- 🔭 I’m currently working on [Evas PHP](https://github.com/evas-php) and NDA project
-- 🌱 I’m currently interested in the future of Evas PHP
+- 🔭 I’m currently considering job offers
+- 🌱 I’m currently developing [Evas PHP](https://github.com/evas-php) little by little
 - 📫 How to reach me: [VK](https://vk.com/evasyakin), [Facebook](https://facebook.com/evasyakin), [Instagram](https://instagram.com/evasyakin), [Telegram](https://t.me/evasyakin)
 - 💖 I need [sponsors](https://www.patreon.com/evasyakin) to keep my projects maintained
 
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Evas PHP](https://github.com/evas-php)
 - 🌱 I’m currently learning ...
+- 🌱 I’m currently interested in the future of ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
